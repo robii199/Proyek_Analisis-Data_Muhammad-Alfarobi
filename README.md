@@ -29,7 +29,4 @@ pip install -r requirements.txt
 ## 6. Run Dashboard
 streamlit run dashboard.py
 ## 7. Akses Dashboard
-  - Jika berjalan lokal:
-    - http://localhost:8501
-  - Secara online
-    - https://submission-analysis-data-robi.streamlit.app/
+   - https://submission-analysis-data-robi.streamlit.app/
