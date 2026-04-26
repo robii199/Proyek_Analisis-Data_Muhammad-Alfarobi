@@ -9,7 +9,7 @@ Fokus analisis:
 ## Setup Environment
 
 ## 1. Clone Repository
-  - git clone https://github.com/robii199/Proyek_Analisis-Data_Coding-Camp.git
+  - git clone https://github.com/robii199/Proyek_Analisis-Data_Muhammad-Alfarobi.git
   - cd Proyek_Analisis-Data_Coding-Camp
 ## 2. Buat Virtual Environment
 python -m venv venv
